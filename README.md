@@ -1,2 +1,7 @@
-# Noi dung
-Bai Tap Buoi 8
+# Nội dung
+Bài tập buổi 8
+
+# install
+```
+yarn install
+```
