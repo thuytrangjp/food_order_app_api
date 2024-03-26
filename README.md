@@ -1,7 +1,7 @@
 # Nội dung
 Bài tập buổi 8
 
-# install
+# Cài đặt
 ```
 yarn install
 ```
